@@ -4,11 +4,11 @@ Abril 2019
 
 2
 00:01:45,730 --> 00:01:47,915
-...nunca cambiaré...
+...nunca cambiare...
 
 3
 00:01:50,686 --> 00:01:52,766
-...nunca creceré!
+...nunca crecere!
 
 4
 00:01:55,448 --> 00:01:57,475
@@ -17,7 +17,7 @@ Abril 2019
 5
 00:02:12,110 --> 00:02:16,728
 DAYBREAKERS
-Vampiros Del Día
+Vampiros Del Dia
 
 6
 00:02:23,248 --> 00:02:27,185
@@ -32,21 +32,21 @@ DISPONIBLE
 8
 00:02:35,805 --> 00:02:39,930
 REPORTAJE ESPECIAL
-EL BROTE, 10 AÑOS DESPUÉS
+EL BROTE, 10 AÃ‘OS DESPUÃ‰S
 
 9
 00:02:44,278 --> 00:02:48,392
-CÓMO UN SÓLO MURCIÉLAGO
-COMENZÓ TODO
+CÃ“MO UN SÃ“LO MURCIÃ‰LAGO
+COMENZÃ“ TODO
 
 10
 00:02:48,497 --> 00:02:52,707
-SUBSTITUTO ALEMÁN
+SUBSTITUTO ALEMAN
 DE LA SANGRE FALLA
 
 11
 00:03:40,047 --> 00:03:42,923
-A LOS HUMANOS SE LES OFRECIÓ
+A LOS HUMANOS SE LES OFRECIÃ“
 LA OPORTUNIDAD DE ASIMILARLO
 
 12
@@ -69,7 +69,7 @@ la oportunidad de asimilarlo...</i>
 16
 00:03:49,743 --> 00:03:52,074
 <i>Por lo tanto, son enemigos
-del estado y serán...</i>
+del estado y serÃ¡n...</i>
 
 17
 00:03:52,075 --> 00:03:54,703
@@ -88,36 +88,36 @@ de suministro de sangre.</i>
 
 20
 00:04:03,218 --> 00:04:05,673
-<i>Deberíamos enfocarnos en encontrar
+<i>DeberÃ­amos enfocarnos en encontrar
 un sustituto para la sangre--</i>
 
 21
 00:04:05,674 --> 00:04:10,022
 <i>Siempre podemos volver a la
-solución de la poción mágica.</i>
+soluciÃ³n de la pociÃ³n mÃ¡gica.</i>
 
 22
 00:04:10,023 --> 00:04:11,357
-<i>¿Dónde está?</i>
+<i>Â¿DÃ³nde estÃ¡?</i>
 
 23
 00:04:11,358 --> 00:04:13,536
-"Estoy famélico.
+"Estoy famÃ©lico.
 Necesito sangre."
 
 24
 00:05:33,937 --> 00:05:37,032
-<i>Con poca o nada de población
+<i>Con poca o nada de poblaciÃ³n
 para sostener la industria...</i>
 
 25
 00:05:37,033 --> 00:05:40,752
-<i>...otros países tercermundistas
-en todo Asia también han tenido...</i>
+<i>...otros paÃ­ses tercermundistas
+en todo Asia tambiÃ©n han tenido...</i>
 
 26
 00:05:54,784 --> 00:05:56,997
-SIRVIENDO 20% DE SANGRE AÚN
+SIRVIENDO 20% DE SANGRE AÃšN
 
 27
 00:06:18,941 --> 00:06:20,568
@@ -125,22 +125,22 @@ CAPTURA HUMANOS
 
 28
 00:06:20,569 --> 00:06:23,319
-ÚNETE AHORA AL EJÉRCITO DE VAMPIROS
-¡HAZ UNA DIFERENCIA HOY!
+ÃšNETE AHORA AL EJÃ‰RCITO DE VAMPIROS
+Â¡HAZ UNA DIFERENCIA HOY!
 
 29
 00:07:20,726 --> 00:07:23,662
-<i>JEFE HEMATÓLOGO
+<i>JEFE HEMATÃ“LOGO
 EDWARD DALTON - APROBADO</i>
 
 30
 00:08:34,366 --> 00:08:37,703
-Todo el material de esta reunión
+Todo el material de esta reuniÃ³n
 es clasificado.
 
 31
 00:08:37,704 --> 00:08:39,059
-¿Comisionado?
+Â¿Comisionado?
 
 32
 00:08:39,743 --> 00:08:44,275
@@ -150,20 +150,20 @@ fue un vampiro seleccionado...
 33
 00:08:44,278 --> 00:08:46,507
 ...para un estudio de un mes
-de duración sobre los efectos de...
+de duraciÃ³n sobre los efectos de...
 
 34
 00:08:46,508 --> 00:08:47,880
-...la privación de sangre.
+...la privaciÃ³n de sangre.
 
 35
 00:08:48,020 --> 00:08:49,128
-¿Qué?
+Â¿QuÃ©?
 
 36
 00:08:49,129 --> 00:08:52,116
 Una completa falta de
-sangre humana en ese período...
+sangre humana en ese perÃ­odo...
 
 37
 00:08:52,117 --> 00:08:54,433
@@ -172,17 +172,17 @@ un deterioro masivo del...
 
 38
 00:08:54,434 --> 00:08:56,075
-...lóbulo frontal.
+...lÃ³bulo frontal.
 
 39
 00:08:56,604 --> 00:08:59,247
 Los primeros signos de
-deformidad física comienzan con...
+deformidad fÃ­sica comienzan con...
 
 40
 00:08:59,248 --> 00:09:03,125
 ...orejas puntiagudas. Las funciones
-mentales, como la lógica...
+mentales, como la lÃ³gica...
 
 41
 00:09:03,126 --> 00:09:06,361
@@ -191,12 +191,12 @@ del habla, luego, se anulan...
 
 42
 00:09:06,362 --> 00:09:08,439
-...mucho más rápido que lo que Ud.
+...mucho mÃ¡s rÃ¡pido que lo que Ud.
 o su equipo originalmente...
 
 43
 00:09:08,441 --> 00:09:10,337
-...habían especulado, Dr. Dalton.
+...habÃ­an especulado, Dr. Dalton.
 
 44
 00:09:10,338 --> 00:09:13,579
@@ -205,26 +205,26 @@ estos disminuidos...
 
 45
 00:09:13,581 --> 00:09:15,935
-...se están volviendo
+...se estÃ¡n volviendo
 un serio problema.
 
 46
 00:09:15,936 --> 00:09:17,725
-Caballeros, estamos famélicos.
+Caballeros, estamos famÃ©licos.
 
 47
 00:09:17,726 --> 00:09:21,115
-Nuestras últimas estadísticas muestran
+Nuestras Ãºltimas estadÃ­sticas muestran
 que queda menos...
 
 48
 00:09:21,116 --> 00:09:22,793
-...del 5% de la población humana.
+...del 5% de la poblaciÃ³n humana.
 
 49
 00:09:22,795 --> 00:09:25,677
 De lo que estamos hablando
-es de la extinción...
+es de la extinciÃ³n...
 
 50
 00:09:25,679 --> 00:09:26,981
@@ -233,11 +233,11 @@ es de la extinción...
 51
 00:09:26,982 --> 00:09:29,835
 De lo que estamos hablando es
-que sólo tenemos sangre suficiente...
+que sÃ³lo tenemos sangre suficiente...
 
 52
 00:09:29,836 --> 00:09:32,950
-...para mantener a la población
+...para mantener a la poblaciÃ³n
 hasta finales de mes.
 
 53
@@ -247,19 +247,19 @@ un sustituto de la sangre...
 
 54
 00:09:35,933 --> 00:09:39,210
-...esto nos pasará a todos nosotros.
+...esto nos pasarÃ¡ a todos nosotros.
 
 55
 00:09:41,492 --> 00:09:43,169
-¿Edward?
+Â¿Edward?
 
 56
 00:09:53,356 --> 00:09:55,722
-Disfrute su café, Sr.
+Disfrute su cafÃ©, Sr.
 
 57
 00:09:58,179 --> 00:10:02,930
-¿Alguna vez te conté
+Â¿Alguna vez te contÃ©
 sobre mi hija Alison?
 
 58
@@ -270,11 +270,11 @@ me diagnosticaron Sarcoma.
 59
 00:10:07,179 --> 00:10:09,666
 El impacto de enterarme
-que tenía cáncer fue una cosa...
+que tenÃ­a cÃ¡ncer fue una cosa...
 
 60
 00:10:09,667 --> 00:10:12,228
-...pero tener que decírselo
+...pero tener que decÃ­rselo
 a mi hija...
 
 61
@@ -288,7 +288,7 @@ pero era realista.
 
 63
 00:10:22,042 --> 00:10:23,981
-Y entonces, el mundo cambió.
+Y entonces, el mundo cambiÃ³.
 
 64
 00:10:24,506 --> 00:10:26,659
@@ -300,21 +300,21 @@ La inmortalidad me dio la cura.
 
 66
 00:10:30,166 --> 00:10:34,726
-Mi hija y yo ahora teníamos
+Mi hija y yo ahora tenÃ­amos
 todo el tiempo del mundo.
 
 67
 00:10:34,727 --> 00:10:40,353
-Pero ella vio esta evolución
+Pero ella vio esta evoluciÃ³n
 como una enfermedad...
 
 68
 00:10:40,354 --> 00:10:42,526
-...peor que cualquier cáncer.
+...peor que cualquier cÃ¡ncer.
 
 69
 00:10:42,528 --> 00:10:45,273
-Se rehusó a convertirse.
+Se rehusÃ³ a convertirse.
 
 70
 00:10:46,417 --> 00:10:49,193
@@ -322,7 +322,7 @@ Yo era un monstruo para ella.
 
 71
 00:10:52,915 --> 00:10:56,544
-Se escapó, como tantos otros.
+Se escapÃ³, como tantos otros.
 
 72
 00:10:56,546 --> 00:10:59,370
@@ -343,11 +343,11 @@ a la muerte a la cara...
 
 76
 00:11:06,910 --> 00:11:09,684
-No estamos listos aún, Sr. Bromley.
+No estamos listos aÃºn, Sr. Bromley.
 
 77
 00:11:13,413 --> 00:11:16,045
-¿No eres de tomar café?
+Â¿No eres de tomar cafÃ©?
 
 78
 00:11:17,024 --> 00:11:18,719
@@ -355,21 +355,21 @@ No en realidad.
 
 79
 00:11:21,722 --> 00:11:25,241
-Sientes lástima por los humanos,
-¿no es cierto?
+Sientes lÃ¡stima por los humanos,
+Â¿no es cierto?
 
 80
 00:11:26,732 --> 00:11:28,906
-Bueno, yo también.
+Bueno, yo tambiÃ©n.
 
 81
 00:11:28,907 --> 00:11:30,575
-Yo también.
+Yo tambiÃ©n.
 
 82
 00:11:32,087 --> 00:11:35,888
 Estos son tiempos
-de desesperación, Edward.
+de desesperaciÃ³n, Edward.
 
 83
 00:11:36,384 --> 00:11:40,669
@@ -378,17 +378,17 @@ del sustituto de la sangre.
 
 84
 00:11:40,774 --> 00:11:47,030
-Es la única forma de ayudar
+Es la Ãºnica forma de ayudar
 a la raza humana.
 
 85
 00:11:48,916 --> 00:11:51,489
 Quiere que nos adelantemos,
-¿no es cierto?
+Â¿no es cierto?
 
 86
 00:11:51,490 --> 00:11:52,532
-Sí.
+SÃ­.
 
 87
 00:11:54,518 --> 00:11:55,560
@@ -396,34 +396,34 @@ De acuerdo.
 
 88
 00:11:58,538 --> 00:12:01,401
-¿Hay algún cambio?
+Â¿Hay algÃºn cambio?
 
 89
 00:12:01,402 --> 00:12:05,908
-Hembicilina CBC y panel bioquímico.
+Hembicilina CBC y panel bioquÃ­mico.
 
 90
 00:12:05,909 --> 00:12:08,240
-Todo está estable.
+Todo estÃ¡ estable.
 
 91
 00:12:09,115 --> 00:12:11,825
-El sustituto está funcionando.
+El sustituto estÃ¡ funcionando.
 
 92
 00:12:13,118 --> 00:12:16,313
-Es tiempo de ir más allá
+Es tiempo de ir mÃ¡s allÃ¡
 de las pruebas con animales.
 
 93
 00:12:16,700 --> 00:12:19,412
-¿Sabías que
+Â¿SabÃ­as que
 el Parque Cementerio Vernon fue...
 
 94
 00:12:19,414 --> 00:12:22,864
 ...atacado por un grupo
-de niños anoche?
+de niÃ±os anoche?
 
 95
 00:12:23,324 --> 00:12:25,158
@@ -436,17 +436,17 @@ de tumbas pensando...
 
 97
 00:12:29,326 --> 00:12:31,932
-Es una locura allí afuera.
+Es una locura allÃ­ afuera.
 
 98
 00:12:46,734 --> 00:12:49,706
-Ahora, soldado, quizás sienta
+Ahora, soldado, quizÃ¡s sienta
 un ligero aumento...
 
 99
 00:12:49,707 --> 00:12:52,116
 ...en su temperatura corporal.
-Eso es sólo la Hembicilina...
+Eso es sÃ³lo la Hembicilina...
 
 100
 00:12:52,117 --> 00:12:54,549
@@ -455,29 +455,29 @@ es algo de esperar.
 
 101
 00:12:54,654 --> 00:12:55,697
-Sí, Sr.
+SÃ­, Sr.
 
 102
 00:13:05,790 --> 00:13:09,293
-- ¿Cómo se siente?
+- Â¿CÃ³mo se siente?
 - Sin cambios, Sr.
 
 103
 00:13:26,374 --> 00:13:28,691
-14º de aumento.
+14Âº de aumento.
 
 104
 00:13:28,692 --> 00:13:32,052
-Un poco más acelerado
+Un poco mÃ¡s acelerado
 de lo anticipado, pero...
 
 105
 00:13:32,054 --> 00:13:33,514
-...estás bien.
+...estÃ¡s bien.
 
 106
 00:13:45,996 --> 00:13:49,613
-20º y estable.
+20Âº y estable.
 
 107
 00:13:52,482 --> 00:13:53,627
@@ -485,22 +485,22 @@ Bien.
 
 108
 00:13:55,646 --> 00:13:58,673
-- Bien, ¿cómo te sientes?
-- Me siento bien, Señ--
+- Bien, Â¿cÃ³mo te sientes?
+- Me siento bien, SeÃ±--
 
 109
 00:14:00,799 --> 00:14:02,397
-¡Mierda!
+Â¡Mierda!
 
 110
 00:14:04,581 --> 00:14:06,613
-¡20 cc. de Epimona!
-¡Vamos!
+Â¡20 cc. de Epimona!
+Â¡Vamos!
 
 111
 00:15:11,968 --> 00:15:14,171
 <i>Violentas escenas en Londres hoy,
-cuando la policía se enfrentó...</i>
+cuando la policÃ­a se enfrentÃ³...</i>
 
 112
 00:15:14,172 --> 00:15:15,989
@@ -509,7 +509,7 @@ por los controversiales...</i>
 
 113
 00:15:15,990 --> 00:15:17,732
-<i>...nuevos regímenes
+<i>...nuevos regÃ­menes
 de raciones de sangre.</i>
 
 114
@@ -520,22 +520,22 @@ que los subsidios de sangre...</i>
 115
 00:15:19,760 --> 00:15:21,813
 <i>...son demasiado estrictos y que
-los órganos gubernamentales...</i>
+los Ã³rganos gubernamentales...</i>
 
 116
 00:15:21,814 --> 00:15:24,008
-<i>...no están cumpliendo con su promesa
+<i>...no estÃ¡n cumpliendo con su promesa
 de encontrar alternativas..</i>
 
 117
 00:15:24,009 --> 00:15:25,988
 <i>Escenas similares se han visto
-a través de Asia...</i>
+a travÃ©s de Asia...</i>
 
 118
 00:15:25,989 --> 00:15:28,214
 <i>...y el Medio Oriente
-en los últimos tiempos.</i>
+en los Ãºltimos tiempos.</i>
 
 119
 00:15:29,141 --> 00:15:30,812
@@ -543,8 +543,8 @@ en los últimos tiempos.</i>
 
 120
 00:15:30,813 --> 00:15:32,263
-<i>...los crímenes relacionados
-con la sangre están en alza...</i>
+<i>...los crÃ­menes relacionados
+con la sangre estÃ¡n en alza...</i>
 
 121
 00:15:32,264 --> 00:15:34,188
@@ -554,11 +554,11 @@ de 1 de cada 10 personas...</i>
 122
 00:15:34,189 --> 00:15:38,599
 <i>...enfrentada por la actividad
-de disminuidos en el último mes.</i>
+de disminuidos en el Ãºltimo mes.</i>
 
 123
 00:15:44,029 --> 00:15:45,100
-¡Mierda!
+Â¡Mierda!
 
 124
 00:16:01,094 --> 00:16:02,488
@@ -566,66 +566,66 @@ Carajo.
 
 125
 00:16:14,084 --> 00:16:15,522
-¿Están bien?
+Â¿EstÃ¡n bien?
 
 126
 00:16:17,053 --> 00:16:19,447
-- ¿Qué estás haciendo?
-- ¡Aléjate!
+- Â¿QuÃ© estÃ¡s haciendo?
+- Â¡AlÃ©jate!
 
 127
 00:16:19,448 --> 00:16:21,866
-- ¡No te acerques!
-- ¡Dispárale de nuevo!
+- Â¡No te acerques!
+- Â¡DispÃ¡rale de nuevo!
 
 128
 00:16:21,867 --> 00:16:23,326
-¡No!
+Â¡No!
 
 129
 00:16:26,171 --> 00:16:28,263
 - Uds. son humanos.
-- ¡Dispárale!
+- Â¡DispÃ¡rale!
 
 130
 00:16:28,264 --> 00:16:29,724
-¡No me dispares de nuevo!
+Â¡No me dispares de nuevo!
 
 131
 00:16:35,557 --> 00:16:39,570
 Escuchen, puedo ayudarlos.
-¡Vamos! Métanse en mi auto.
+Â¡Vamos! MÃ©tanse en mi auto.
 
 132
 00:16:39,571 --> 00:16:41,988
-¡Los ayudaré! ¡Vamos!
-¡Déjenme ayudarles!
+Â¡Los ayudarÃ©! Â¡Vamos!
+Â¡DÃ©jenme ayudarles!
 
 133
 00:16:41,990 --> 00:16:43,345
-¡Métanse en mi auto!
+Â¡MÃ©tanse en mi auto!
 
 134
 00:16:44,794 --> 00:16:46,970
-Vamos. ¡Vamos!
+Vamos. Â¡Vamos!
 
 135
 00:16:51,070 --> 00:16:52,430
-Vamos, métanse.
+Vamos, mÃ©tanse.
 
 136
 00:16:54,186 --> 00:16:55,830
-Está todo bien.
+EstÃ¡ todo bien.
 
 137
 00:17:04,768 --> 00:17:06,602
-"Modo De Conducción Diurno
+"Modo De ConducciÃ³n Diurno
 ACTIVADO"
 
 138
 00:17:07,950 --> 00:17:12,141
-<i>Modo de conducción
-y protección diurna: Activado.</i>
+<i>Modo de conducciÃ³n
+y protecciÃ³n diurna: Activado.</i>
 
 139
 00:17:31,094 --> 00:17:33,267
@@ -637,39 +637,39 @@ Mierda.
 
 141
 00:17:34,571 --> 00:17:38,078
-- ¿Está Ud. bien, Sr.?
-- Sí, estoy bien.
+- Â¿EstÃ¡ Ud. bien, Sr.?
+- SÃ­, estoy bien.
 
 142
 00:17:38,079 --> 00:17:40,284
-<i>¿Alcanzó a verlos bien, Sr.?</i>
+<i>Â¿AlcanzÃ³ a verlos bien, Sr.?</i>
 
 143
 00:17:40,285 --> 00:17:44,578
 <i>No, no en realidad.
-Sucedió tan de repente.</i>
+SucediÃ³ tan de repente.</i>
 
 144
 00:17:44,579 --> 00:17:46,996
 <i>No quisieron esperar
-a ver cómo estaba yo.</i>
+a ver cÃ³mo estaba yo.</i>
 
 145
 00:17:46,997 --> 00:17:48,558
-Creemos que podrían
+Creemos que podrÃ­an
 haber sido humanos, Sr.
 
 146
 00:17:48,559 --> 00:17:50,557
-¿Vio por dónde se fueron?
+Â¿Vio por dÃ³nde se fueron?
 
 147
 00:17:53,702 --> 00:17:56,000
-Creo que se fueron por allí.
+Creo que se fueron por allÃ­.
 
 148
 00:18:00,045 --> 00:18:02,119
-Cuídese, Sr.
+CuÃ­dese, Sr.
 
 149
 00:18:17,705 --> 00:18:19,100
@@ -677,12 +677,12 @@ Gracias.
 
 150
 00:18:19,101 --> 00:18:21,542
-- ¿Están bien?
-- Sí.
+- Â¿EstÃ¡n bien?
+- SÃ­.
 
 151
 00:18:22,986 --> 00:18:25,161
-Te veré por ahí.
+Te verÃ© por ahÃ­.
 
 152
 00:18:25,910 --> 00:18:27,791
@@ -690,7 +690,7 @@ De alguna manera, lo dudo.
 
 153
 00:18:27,792 --> 00:18:30,091
-Feliz Cumpleaños, Ed.
+Feliz CumpleaÃ±os, Ed.
 
 154
 00:18:46,236 --> 00:18:49,200
@@ -703,26 +703,26 @@ y la salud de la comunidad.</i>
 
 156
 00:19:06,679 --> 00:19:09,396
-<i>10 años después
+<i>10 aÃ±os despuÃ©s
 del brote del 2009...</i>
 
 157
 00:19:09,397 --> 00:19:12,327
-<i>...la vida silvestre vampírica
+<i>...la vida silvestre vampÃ­rica
 vagando bajo la luz del sol...</i>
 
 158
 00:19:12,328 --> 00:19:14,369
 <i>...se ha convertido en la causa
-número uno de incendios forestales...</i>
+nÃºmero uno de incendios forestales...</i>
 
 159
 00:19:14,370 --> 00:19:15,634
-<i>...a lo largo de la nación.</i>
+<i>...a lo largo de la naciÃ³n.</i>
 
 160
 00:19:15,635 --> 00:19:17,755
-<i>La prohibición total de
+<i>La prohibiciÃ³n total de
 alimentarse de la vida salvaje...</i>
 
 161
@@ -737,25 +737,25 @@ a lo largo de la ciudad...</i>
 
 163
 00:19:22,396 --> 00:19:24,566
-<i>...la red de túneles Subwalk...</i>
+<i>...la red de tÃºneles Subwalk...</i>
 
 164
 00:19:24,580 --> 00:19:27,548
-<i>...es la forma más segura
-de pasearse durante el día.</i>
+<i>...es la forma mÃ¡s segura
+de pasearse durante el dÃ­a.</i>
 
 165
 00:19:27,549 --> 00:19:30,644
-<i>Subwalk - Protección bajo el sol.</i>
+<i>Subwalk - ProtecciÃ³n bajo el sol.</i>
 
 166
 00:19:30,922 --> 00:19:33,655
 <i>Tener tu auto modificado
-para la conducción diurna...</i>
+para la conducciÃ³n diurna...</i>
 
 167
 00:19:33,656 --> 00:19:35,404
-<i>...no debería costarte tanto.</i>
+<i>...no deberÃ­a costarte tanto.</i>
 
 168
 00:19:41,895 --> 00:19:45,173
@@ -772,11 +772,11 @@ Hola, Ed.
 
 171
 00:19:51,703 --> 00:19:53,488
-Apenas te reconocí.
+Apenas te reconocÃ­.
 
 172
 00:19:53,489 --> 00:19:55,271
-Sólo fueron unos pocos meses.
+SÃ³lo fueron unos pocos meses.
 
 173
 00:19:56,335 --> 00:19:58,008
@@ -784,27 +784,27 @@ Tengo algo para ti.
 
 174
 00:19:58,384 --> 00:19:59,822
-¿Qué es esto?
+Â¿QuÃ© es esto?
 
 175
 00:19:59,864 --> 00:20:01,500
-¿Qué mierda crees que es?
+Â¿QuÃ© mierda crees que es?
 
 176
 00:20:04,695 --> 00:20:06,734
-Vaya fiesta de cumpleaños, hermano.
+Vaya fiesta de cumpleaÃ±os, hermano.
 
 177
 00:20:06,914 --> 00:20:09,604
-Sí, bueno, cumplí 35 diez veces.
+SÃ­, bueno, cumplÃ­ 35 diez veces.
 
 178
 00:20:10,382 --> 00:20:11,962
-Los cumpleaños no tienen sentido.
+Los cumpleaÃ±os no tienen sentido.
 
 179
 00:20:12,160 --> 00:20:13,544
-¡Basura!
+Â¡Basura!
 
 180
 00:20:13,589 --> 00:20:14,966
@@ -821,16 +821,16 @@ Huele a humana.
 183
 00:20:25,127 --> 00:20:28,036
 Ese es uno de los beneficios
-de servir a tu país.
+de servir a tu paÃ­s.
 
 184
 00:20:29,121 --> 00:20:30,960
-Escuché que inclusive esa mierda
-de cerdo que tú tomas...
+EscuchÃ© que inclusive esa mierda
+de cerdo que tÃº tomas...
 
 185
 00:20:30,961 --> 00:20:33,098
-...se está haciendo difícil
+...se estÃ¡ haciendo difÃ­cil
 de encontrar.
 
 186
@@ -847,7 +847,7 @@ Lo necesitas.
 
 189
 00:20:41,582 --> 00:20:43,017
-Sí, bueno...
+SÃ­, bueno...
 
 190
 00:20:43,354 --> 00:20:44,959
@@ -871,23 +871,23 @@ No tocas sangre humana.
 
 195
 00:20:56,348 --> 00:20:59,767
-Trabajas para una compañía que
+Trabajas para una compaÃ±Ã­a que
 usa humanos como puto ganado.
 
 196
 00:20:59,768 --> 00:21:01,643
-No me digas cómo vivir mi vida,
+No me digas cÃ³mo vivir mi vida,
 hermanito.
 
 197
 00:21:01,669 --> 00:21:04,184
-Entonces no actúes como grande
+Entonces no actÃºes como grande
 y poderoso, hermano mayor.
 
 198
 00:21:04,346 --> 00:21:06,489
-Mira Ed, que tu compañía trabaje
-en algún tipo de...
+Mira Ed, que tu compaÃ±Ã­a trabaje
+en algÃºn tipo de...
 
 199
 00:21:06,490 --> 00:21:09,086
@@ -901,17 +901,17 @@ de cosechar humanos.
 
 201
 00:21:10,836 --> 00:21:13,817
-¿Vamos a continuar esta discusión
+Â¿Vamos a continuar esta discusiÃ³n
 exactamente donde la dejamos?
 
 202
 00:21:13,818 --> 00:21:17,359
 No cazo humanos.
-Ese es tú trabajo.
+Ese es tÃº trabajo.
 
 203
 00:21:17,360 --> 00:21:19,091
-Yo los encuentro. Tú los cosechas.
+Yo los encuentro. TÃº los cosechas.
 
 204
 00:21:19,622 --> 00:21:21,210
@@ -919,21 +919,21 @@ De acuerdo. Bien...
 
 205
 00:21:21,211 --> 00:21:24,174
-- Sólo tiremos esta basura.
-- Nada cambia, ¿no es cierto?
+- SÃ³lo tiremos esta basura.
+- Nada cambia, Â¿no es cierto?
 
 206
 00:21:24,175 --> 00:21:25,441
-¿No es cierto?
+Â¿No es cierto?
 
 207
 00:21:25,650 --> 00:21:27,798
-Todavía no entiendes
-por qué me enlisté.
+TodavÃ­a no entiendes
+por quÃ© me enlistÃ©.
 
 208
 00:21:28,569 --> 00:21:30,040
-¿Qué sucederá...
+Â¿QuÃ© sucederÃ¡...
 
 209
 00:21:30,689 --> 00:21:34,193
@@ -942,12 +942,12 @@ ni una sola gota?
 
 210
 00:21:34,194 --> 00:21:36,263
-¿Cuando ya no quede ningún humano?
+Â¿Cuando ya no quede ningÃºn humano?
 
 211
 00:21:36,264 --> 00:21:38,828
-- ¿Nada de nada?
-- Siempre encontraremos más.
+- Â¿Nada de nada?
+- Siempre encontraremos mÃ¡s.
 
 212
 00:21:38,829 --> 00:21:42,031
@@ -962,15 +962,15 @@ No significa el fin de nada.
 214
 00:21:44,874 --> 00:21:47,300
 Bueno, si yo creyera eso,
-déjame clavarme una estaca...
+dÃ©jame clavarme una estaca...
 
 215
 00:21:47,301 --> 00:21:49,282
-...en el corazón, ahora mismo.
+...en el corazÃ³n, ahora mismo.
 
 216
 00:22:01,004 --> 00:22:02,375
-¡Mierda!
+Â¡Mierda!
 
 217
 00:22:23,739 --> 00:22:25,285
@@ -978,11 +978,11 @@ Frankie. Frankie.
 
 218
 00:22:34,538 --> 00:22:35,909
-¡Mierda!
+Â¡Mierda!
 
 219
 00:22:36,673 --> 00:22:37,758
-¡Dios mío!
+Â¡Dios mÃ­o!
 
 220
 00:22:52,717 --> 00:22:54,073
@@ -998,17 +998,17 @@ Frankie.
 
 223
 00:24:09,074 --> 00:24:12,252
-Esta es la tercera invasión en
-un hogar en esta área este mes.
+Esta es la tercera invasiÃ³n en
+un hogar en esta Ã¡rea este mes.
 
 224
 00:24:12,382 --> 00:24:14,708
-Estas cosas están
+Estas cosas estÃ¡n
 en los suburbios ahora.
 
 225
 00:24:14,716 --> 00:24:16,109
-Así que...
+AsÃ­ que...
 
 226
 00:24:16,154 --> 00:24:17,954
@@ -1027,7 +1027,7 @@ a todos los otros.
 
 229
 00:24:28,215 --> 00:24:29,998
-La agresión es probablemente
+La agresiÃ³n es probablemente
 causada por...
 
 230
@@ -1037,7 +1037,7 @@ de los niveles de serotonina.
 
 231
 00:24:32,035 --> 00:24:34,951
-Necesitamos más patrulleros
+Necesitamos mÃ¡s patrulleros
 incinerando estas ratas inmundas.
 
 232
@@ -1051,15 +1051,15 @@ Lillian y Carl."
 
 234
 00:24:48,409 --> 00:24:49,860
-¿Carl?
+Â¿Carl?
 
 235
 00:24:50,062 --> 00:24:51,543
-¿Qué? ¿Lo conocía?
+Â¿QuÃ©? Â¿Lo conocÃ­a?
 
 236
 00:24:54,548 --> 00:24:57,692
-Sí, era el jardinero de la zona.
+SÃ­, era el jardinero de la zona.
 
 237
 00:24:58,177 --> 00:24:59,934
@@ -1072,7 +1072,7 @@ de otros vampiros.
 
 239
 00:25:02,570 --> 00:25:04,753
-Sólo toma un par de semanas
+SÃ³lo toma un par de semanas
 llegar a tan mal estado.
 
 240
@@ -1082,16 +1082,16 @@ parecen autoinfligidas.
 
 241
 00:25:08,184 --> 00:25:10,020
-¿Se alimentaba de sí mismo?
+Â¿Se alimentaba de sÃ­ mismo?
 
 242
 00:25:10,240 --> 00:25:11,661
-Quizás.
+QuizÃ¡s.
 
 243
 00:25:11,705 --> 00:25:14,295
-Y eso aceleraría
-considerablemente la mutación.
+Y eso acelerarÃ­a
+considerablemente la mutaciÃ³n.
 
 244
 00:25:15,222 --> 00:25:16,744
@@ -1108,7 +1108,7 @@ Hola.
 
 247
 00:26:16,069 --> 00:26:18,070
-¿Viniste a liquidarme?
+Â¿Viniste a liquidarme?
 
 248
 00:26:18,975 --> 00:26:20,703
@@ -1117,25 +1117,25 @@ Necesitamos tu ayuda.
 249
 00:26:21,272 --> 00:26:24,569
 Hemos estado buscando un vampiro
-en quién pudiéramos confiar.
+en quiÃ©n pudiÃ©ramos confiar.
 
 250
 00:26:25,721 --> 00:26:27,138
-¿Confiar?
+Â¿Confiar?
 
 251
 00:26:34,470 --> 00:26:37,674
-Eres un hematólogo.
+Eres un hematÃ³logo.
 Puedes ayudarnos.
 
 252
 00:26:38,514 --> 00:26:39,969
-¿Ayudarlos cómo?
+Â¿Ayudarlos cÃ³mo?
 
 253
 00:26:40,012 --> 00:26:43,901
 Un sustituto de la sangre
-es una solución pero no una cura.
+es una soluciÃ³n pero no una cura.
 
 254
 00:26:43,902 --> 00:26:45,299
@@ -1143,16 +1143,16 @@ Hay otra forma.
 
 255
 00:26:48,468 --> 00:26:49,619
-Tómalo.
+TÃ³malo.
 
 256
 00:27:10,515 --> 00:27:13,080
-GORDON CREEK. MEDIODÍA
-MIÉRCOLES. SOLO.
+GORDON CREEK. MEDIODÃA
+MIÃ‰RCOLES. SOLO.
 
 257
 00:27:35,351 --> 00:27:36,702
-¿Quién era esa?
+Â¿QuiÃ©n era esa?
 
 258
 00:27:37,295 --> 00:27:38,578
@@ -1161,22 +1161,22 @@ No es nada.
 259
 00:27:47,525 --> 00:27:50,098
 <i>Con los suministros de sangre
-aún disminuyendo...</i>
+aÃºn disminuyendo...</i>
 
 260
 00:27:50,100 --> 00:27:52,396
-<i>...inversores privados están retirando
+<i>...inversores privados estÃ¡n retirando
 sus reservas de sangre humana de...</i>
 
 261
 00:27:52,405 --> 00:27:54,722
-<i>...la instalación de recolección
+<i>...la instalaciÃ³n de recolecciÃ³n
 Bromley Marks.</i>
 
 262
 00:27:54,890 --> 00:27:57,280
 <i>Muchos expertos creen
-que la compañía ya no podrá...</i>
+que la compaÃ±Ã­a ya no podrÃ¡...</i>
 
 263
 00:27:57,281 --> 00:27:59,488
@@ -1186,16 +1186,16 @@ la demanda de sangre nacional.</i>
 264
 00:27:59,500 --> 00:28:01,955
 <i>El portavoz de la FDA
-confirmó ayer...</i>
+confirmÃ³ ayer...</i>
 
 265
 00:28:05,073 --> 00:28:07,097
-¿Cómo te sientes, Edward?
+Â¿CÃ³mo te sientes, Edward?
 
 266
 00:28:07,369 --> 00:28:10,778
 El ataque debe haber sido
-muy... traumático.
+muy... traumÃ¡tico.
 
 267
 00:28:10,779 --> 00:28:13,066
@@ -1208,21 +1208,21 @@ a ciudadanos comunes son...
 
 269
 00:28:18,760 --> 00:28:21,198
-...causa de una gran preocupación.
+...causa de una gran preocupaciÃ³n.
 
 270
 00:28:22,771 --> 00:28:26,037
-Mucha más razón para
-seguir adelante, ¿no crees?
+Mucha mÃ¡s razÃ³n para
+seguir adelante, Â¿no crees?
 
 271
 00:28:27,444 --> 00:28:29,167
-Sólo quiero que me garantice...
+SÃ³lo quiero que me garantice...
 
 272
 00:28:29,942 --> 00:28:31,896
 ...que un sustituto de la sangre
-reemplazará nuestra necesidad...
+reemplazarÃ¡ nuestra necesidad...
 
 273
 00:28:31,897 --> 00:28:34,024
@@ -1242,20 +1242,20 @@ tenga tiempo de repoblarse.
 276
 00:28:42,066 --> 00:28:44,842
 Eso no es exactamente
-lo que yo le pregunté.
+lo que yo le preguntÃ©.
 
 277
 00:28:46,127 --> 00:28:47,951
-La mayoría de la población estará...
+La mayorÃ­a de la poblaciÃ³n estarÃ¡...
 
 278
 00:28:47,952 --> 00:28:50,958
 ...satisfecha con un sustituto
-de la sangre, sí.
+de la sangre, sÃ­.
 
 279
 00:28:50,959 --> 00:28:53,440
-Pero siempre habrán aquellos
+Pero siempre habrÃ¡n aquellos
 dispuestos a pagar...
 
 280
@@ -1274,16 +1274,16 @@ a todos los mercados...
 
 283
 00:29:06,871 --> 00:29:08,644
-...alguien más lo hará.
+...alguien mÃ¡s lo harÃ¡.
 
 284
 00:29:09,693 --> 00:29:13,106
-¿Cuánto cree que estarían
+Â¿CuÃ¡nto cree que estarÃ­an
 dispuestos a pagar por su hija?
 
 285
 00:30:36,448 --> 00:30:38,346
-Te está esperando.
+Te estÃ¡ esperando.
 
 286
 00:31:10,717 --> 00:31:16,973
@@ -1292,33 +1292,33 @@ Alerta de rayos UV. Alerta de rayos UV.</i>
 
 287
 00:31:50,990 --> 00:31:54,252
-Los árboles son los seres vivientes
-más viejos en la tierra.
+Los Ã¡rboles son los seres vivientes
+mÃ¡s viejos en la tierra.
 
 288
 00:31:56,107 --> 00:31:57,671
-¿Sabías eso?
+Â¿SabÃ­as eso?
 
 289
 00:32:00,390 --> 00:32:04,923
 Dicen que algunos tienen
-cuatro mil años.
+cuatro mil aÃ±os.
 
 290
 00:32:06,279 --> 00:32:08,041
-Algún día, sin embargo...
+AlgÃºn dÃ­a, sin embargo...
 
 291
 00:32:08,309 --> 00:32:10,052
-...este árbol morirá.
+...este Ã¡rbol morirÃ¡.
 
 292
 00:32:11,200 --> 00:32:13,174
-Y tú también.
+Y tÃº tambiÃ©n.
 
 293
 00:32:14,719 --> 00:32:17,964
-Quizás no mueras de viejo como ella.
+QuizÃ¡s no mueras de viejo como ella.
 
 294
 00:32:19,375 --> 00:32:22,084
@@ -1326,20 +1326,20 @@ Pero eso a lo que te aferras...
 
 295
 00:32:22,479 --> 00:32:25,401
-...ese último aliento de humanidad...
+...ese Ãºltimo aliento de humanidad...
 
 296
 00:32:26,183 --> 00:32:29,040
-...se desvanecerá tan pronto
+...se desvanecerÃ¡ tan pronto
 como se desvanezca la sangre.
 
 297
 00:32:30,841 --> 00:32:32,517
-¿Qué quieres?
+Â¿QuÃ© quieres?
 
 298
 00:32:32,711 --> 00:32:34,544
-Lo mismo que tú.
+Lo mismo que tÃº.
 
 299
 00:32:35,467 --> 00:32:36,955
@@ -1347,11 +1347,11 @@ Un futuro.
 
 300
 00:32:53,299 --> 00:32:55,189
-Era como tú, una vez.
+Era como tÃº, una vez.
 
 301
 00:32:56,800 --> 00:32:58,724
-Pero no más.
+Pero no mÃ¡s.
 
 302
 00:33:03,050 --> 00:33:04,940
@@ -1363,34 +1363,34 @@ Mis amigos me llaman Elvis.
 
 304
 00:33:11,436 --> 00:33:14,085
-No te morderé.
+No te morderÃ©.
 
 305
 00:33:19,477 --> 00:33:23,677
-- ¿Elvis?
-- Sí, ya sabes, como...
+- Â¿Elvis?
+- SÃ­, ya sabes, como...
 
 306
 00:33:23,678 --> 00:33:27,835
-# Señor todopoderoso,
+# SeÃ±or todopoderoso,
 siento mi temperatura elevarse #
 
 307
 00:33:27,941 --> 00:33:34,197
-# Alto y más alto
-Me está quemando el alma #
+# Alto y mÃ¡s alto
+Me estÃ¡ quemando el alma #
 
 308
 00:33:39,397 --> 00:33:41,065
-¿Sientes eso?
+Â¿Sientes eso?
 
 309
 00:33:41,066 --> 00:33:44,345
-No había latido en nueve años.
+No habÃ­a latido en nueve aÃ±os.
 
 310
 00:33:45,370 --> 00:33:48,081
-Parece imposible, ¿no?
+Parece imposible, Â¿no?
 
 311
 00:33:49,341 --> 00:33:50,829
@@ -1398,39 +1398,39 @@ Es imposible.
 
 312
 00:33:50,830 --> 00:33:53,654
-También lo es caminar
-por ahí sin pulso.
+TambiÃ©n lo es caminar
+por ahÃ­ sin pulso.
 
 313
 00:33:54,360 --> 00:33:56,742
-Pero aquí estás.
+Pero aquÃ­ estÃ¡s.
 
 314
 00:33:56,743 --> 00:33:58,667
-¿Cómo lo hiciste?
+Â¿CÃ³mo lo hiciste?
 
 315
 00:34:03,048 --> 00:34:04,336
-¿Audrey?
+Â¿Audrey?
 
 316
 00:34:15,222 --> 00:34:18,333
 - Baja el arma.
-- ¿Frankie?
+- Â¿Frankie?
 
 317
 00:34:18,334 --> 00:34:20,949
-- ¡Baja el arma!
-- Frankie, ¿qué demonios...?
+- Â¡Baja el arma!
+- Frankie, Â¿quÃ© demonios...?
 
 318
 00:34:20,950 --> 00:34:22,006
-¿Qué diablos estás haciendo?
+Â¿QuÃ© diablos estÃ¡s haciendo?
 
 319
 00:34:22,007 --> 00:34:23,682
-- Aléjate de él.
-- ¡Baja el arma!
+- AlÃ©jate de Ã©l.
+- Â¡Baja el arma!
 
 320
 00:34:23,683 --> 00:34:24,953
@@ -1438,12 +1438,12 @@ No empeores las cosas.
 
 321
 00:34:24,954 --> 00:34:26,146
-- ¡Deja de apuntar esa arma!
-- ¡Aléjate de él!
+- Â¡Deja de apuntar esa arma!
+- Â¡AlÃ©jate de Ã©l!
 
 322
 00:34:26,147 --> 00:34:27,675
-- ¡Frankie!
+- Â¡Frankie!
 - Esto es un problema serio, Ed.
 
 323
@@ -1456,15 +1456,15 @@ Vamos.
 
 325
 00:34:47,710 --> 00:34:49,631
-¡Hijos de puta!
+Â¡Hijos de puta!
 
 326
 00:34:52,942 --> 00:34:54,755
-¡Vamos, métanse a mi auto!
+Â¡Vamos, mÃ©tanse a mi auto!
 
 327
 00:35:17,342 --> 00:35:18,391
-¡Mierda!
+Â¡Mierda!
 
 328
 00:35:24,555 --> 00:35:25,597
@@ -1472,28 +1472,28 @@ Vamos.
 
 329
 00:35:26,253 --> 00:35:27,296
-¡Lo tengo!
+Â¡Lo tengo!
 
 330
 00:35:38,738 --> 00:35:40,745
-"SEÑAL PERDIDA"
-- ¡No puedo...!
+"SEÃ‘AL PERDIDA"
+- Â¡No puedo...!
 
 331
 00:35:40,746 --> 00:35:41,789
-¡Muévete!
+Â¡MuÃ©vete!
 
 332
 00:35:48,426 --> 00:35:49,534
-¡Conduce derecho!
+Â¡Conduce derecho!
 
 333
 00:36:30,250 --> 00:36:32,347
-Agárrense.
+AgÃ¡rrense.
 
 334
 00:36:56,406 --> 00:36:58,611
-¿Están todos bien?
+Â¿EstÃ¡n todos bien?
 
 335
 00:37:02,418 --> 00:37:03,474
@@ -1525,7 +1525,7 @@ Nunca fui bueno con la ciencia, Doc.
 
 342
 00:38:48,246 --> 00:38:50,766
-Lo mío siempre han sido los autos.
+Lo mÃ­o siempre han sido los autos.
 
 343
 00:38:50,767 --> 00:38:54,758
@@ -1534,11 +1534,11 @@ eran mi especialidad.
 
 344
 00:38:54,759 --> 00:38:57,072
-O solían serlo.
+O solÃ­an serlo.
 
 345
 00:38:57,798 --> 00:39:01,341
-Cámaras personalizadas, bloqueadores
+CÃ¡maras personalizadas, bloqueadores
 solares, esa clase de cosas.
 
 346
@@ -1548,17 +1548,17 @@ en la ciudad en empezar a hacerlos.
 
 347
 00:39:08,344 --> 00:39:11,348
-Tenía una tienda justo
+TenÃ­a una tienda justo
 cerca de su casa.
 
 348
 00:39:12,224 --> 00:39:16,124
-Conducción diurna, viejo,
+ConducciÃ³n diurna, viejo,
 no hay nada mejor.
 
 349
 00:39:16,125 --> 00:39:21,338
-No hay tráfico, no hay policías.
+No hay trÃ¡fico, no hay policÃ­as.
 Pero si no eres cuidadoso...
 
 350
@@ -1568,7 +1568,7 @@ solar del demonio.
 
 351
 00:39:36,946 --> 00:39:39,548
-Sólo puedes seguir un tiempo
+SÃ³lo puedes seguir un tiempo
 sin sangre...
 
 352
@@ -1578,12 +1578,12 @@ a afectarte la cabeza.
 
 353
 00:40:02,481 --> 00:40:06,523
-Es increíble lo rápido que
+Es increÃ­ble lo rÃ¡pido que
 el mundo entero puede cambiar.
 
 354
 00:40:06,524 --> 00:40:08,505
-¿No es cierto, Doc.?
+Â¿No es cierto, Doc.?
 
 355
 00:40:25,419 --> 00:40:28,582
@@ -1596,11 +1596,11 @@ Es por eso que le necesitamos.
 
 357
 00:40:33,595 --> 00:40:34,638
-¿El Sol?
+Â¿El Sol?
 
 358
 00:40:36,524 --> 00:40:39,738
-¿Eres humano a causa del sol?
+Â¿Eres humano a causa del sol?
 
 359
 00:40:40,058 --> 00:40:42,527
@@ -1612,7 +1612,7 @@ Por favor, tome asiento.
 
 361
 00:41:05,507 --> 00:41:07,961
-¿Sabe quién soy?
+Â¿Sabe quiÃ©n soy?
 
 362
 00:41:07,962 --> 00:41:10,853
@@ -1627,11 +1627,11 @@ sus acciones.
 364
 00:41:18,058 --> 00:41:21,238
 Quiere seguir haciendo lo
-correcto, ¿no es cierto, hijo?
+correcto, Â¿no es cierto, hijo?
 
 365
 00:41:22,086 --> 00:41:24,145
-Haré cualquier cosa que me pida, Sr.
+HarÃ© cualquier cosa que me pida, Sr.
 
 366
 00:41:27,114 --> 00:41:30,913
@@ -1646,29 +1646,29 @@ del futuro de todos.
 368
 00:41:34,804 --> 00:41:38,516
 Todo lo que deseamos,
-es que continúe con su trabajo.
+es que continÃºe con su trabajo.
 
 369
 00:41:38,517 --> 00:41:42,946
-Si él regresa de inmediato,
-no se presentarán cargos formales.
+Si Ã©l regresa de inmediato,
+no se presentarÃ¡n cargos formales.
 
 370
 00:41:43,873 --> 00:41:46,917
-No sé qué cree
+No sÃ© quÃ© cree
 que yo pueda hacer, Sr.
 
 371
 00:41:50,354 --> 00:41:53,135
-¿Le gusta ser un vampiro, hijo?
+Â¿Le gusta ser un vampiro, hijo?
 
 372
 00:41:54,026 --> 00:41:55,069
-Sí, Sr.
+SÃ­, Sr.
 
 373
 00:41:55,724 --> 00:41:57,184
-¿Por qué?
+Â¿Por quÃ©?
 
 374
 00:41:58,089 --> 00:42:02,408
@@ -1678,7 +1678,7 @@ claramente lo desaprueba.
 375
 00:42:02,409 --> 00:42:06,215
 Me pregunto si es
-un rasgo común en su familia.
+un rasgo comÃºn en su familia.
 
 376
 00:42:07,610 --> 00:42:10,008
@@ -1711,12 +1711,12 @@ Cada pocas semanas, salimos...
 
 383
 00:42:34,422 --> 00:42:37,804
-Se está volviendo cada vez
-más difícil encontrar a alguien.
+Se estÃ¡ volviendo cada vez
+mÃ¡s difÃ­cil encontrar a alguien.
 
 384
 00:42:37,805 --> 00:42:40,080
-Sólo me las arreglé
+SÃ³lo me las arreglÃ©
 para encontrar a tres...
 
 385
@@ -1725,20 +1725,20 @@ para encontrar a tres...
 
 386
 00:42:44,557 --> 00:42:45,653
-Detén el auto.
+DetÃ©n el auto.
 
 387
 00:42:46,498 --> 00:42:47,720
-¡Detén el auto!
+Â¡DetÃ©n el auto!
 
 388
 00:42:51,443 --> 00:42:54,490
-¿Cuándo fue la última vez
-que bebió sangre humana?
+Â¿CuÃ¡ndo fue la Ãºltima vez
+que bebiÃ³ sangre humana?
 
 389
 00:42:54,491 --> 00:42:56,403
-¿Qué importa?
+Â¿QuÃ© importa?
 
 390
 00:42:59,815 --> 00:43:01,839
@@ -1746,16 +1746,16 @@ Estoy bien.
 
 391
 00:43:04,265 --> 00:43:08,152
-Tú... no tienes...
+TÃº... no tienes...
 
 392
 00:43:13,107 --> 00:43:14,666
-Necesitamos que estés atento.
+Necesitamos que estÃ©s atento.
 
 393
 00:43:14,667 --> 00:43:18,950
-- ¡No! No, no estoy--
-- No se lo está pidiendo, Doc.
+- Â¡No! No, no estoy--
+- No se lo estÃ¡ pidiendo, Doc.
 
 394
 00:43:25,867 --> 00:43:28,272
@@ -1772,11 +1772,11 @@ preocuparme por ti...
 
 397
 00:44:21,391 --> 00:44:23,619
-Bueno, era hora, maldición.
+Bueno, era hora, maldiciÃ³n.
 
 398
 00:44:23,620 --> 00:44:27,275
-Deja de preocuparte, vivirás más.
+Deja de preocuparte, vivirÃ¡s mÃ¡s.
 
 399
 00:44:30,198 --> 00:44:33,942
@@ -1784,7 +1784,7 @@ Travis, este es Ed.
 
 400
 00:44:34,048 --> 00:44:35,125
-¡Ed!
+Â¡Ed!
 
 401
 00:44:37,523 --> 00:44:39,540
@@ -1797,18 +1797,18 @@ hay un vampiro cerca...
 
 403
 00:44:41,500 --> 00:44:44,753
-...yo soy el que se está cagando
+...yo soy el que se estÃ¡ cagando
 en los pantalones.
 
 404
 00:44:44,754 --> 00:44:47,046
-Será mejor
+SerÃ¡ mejor
 que valgas el riesgo, viejo.
 
 405
 00:44:47,047 --> 00:44:48,762
 Jar ha hecho contacto
-con el grupo más grande...
+con el grupo mÃ¡s grande...
 
 406
 00:44:48,763 --> 00:44:52,292
@@ -1817,11 +1817,11 @@ en mucho tiempo.
 
 407
 00:44:52,294 --> 00:44:54,553
-Y los traerá aquí.
+Y los traerÃ¡ aquÃ­.
 
 408
 00:44:55,332 --> 00:44:57,477
-Puse más catres en la bodega.
+Puse mÃ¡s catres en la bodega.
 
 409
 00:44:57,479 --> 00:45:01,138
@@ -1834,11 +1834,11 @@ Buena suerte.
 
 411
 00:45:04,860 --> 00:45:06,938
-Para ti también.
+Para ti tambiÃ©n.
 
 412
 00:45:25,030 --> 00:45:27,358
-¿Este lugar es seguro?
+Â¿Este lugar es seguro?
 
 413
 00:45:27,359 --> 00:45:29,327
@@ -1848,35 +1848,35 @@ lleno de vampiros...
 414
 00:45:29,328 --> 00:45:33,043
 ...es tan seguro como tener sexo
-sin protección con una prostituta de $5.
+sin protecciÃ³n con una prostituta de $5.
 
 415
 00:45:34,162 --> 00:45:38,997
 Este es nuestro hogar, Doc.
-Pero ninguno de nosotros está a salvo.
+Pero ninguno de nosotros estÃ¡ a salvo.
 
 416
 00:45:42,501 --> 00:45:44,689
-Este viñedo perteneció a mis padres.
+Este viÃ±edo perteneciÃ³ a mis padres.
 
 417
 00:45:44,691 --> 00:45:46,451
-Siempre quisieron que algún día
+Siempre quisieron que algÃºn dÃ­a
 yo lo dirija, pero...
 
 418
 00:45:46,453 --> 00:45:49,801
-...en esa época estaba
-más interesada en la universidad.
+...en esa Ã©poca estaba
+mÃ¡s interesada en la universidad.
 
 419
 00:45:49,802 --> 00:45:54,608
 No mucho tiempo
-después del brote volví.
+despuÃ©s del brote volvÃ­.
 
 420
 00:45:54,609 --> 00:45:57,639
-Parecía un buen lugar
+ParecÃ­a un buen lugar
 donde esconderse.
 
 421
@@ -1885,12 +1885,12 @@ Le debo mi vida a esa chica.
 
 422
 00:46:06,560 --> 00:46:08,433
-Ella me encontró luego de que
+Ella me encontrÃ³ luego de que
 me sacudieran y cocinaran...
 
 423
 00:46:08,435 --> 00:46:10,103
-...y me trajo aquí.
+...y me trajo aquÃ­.
 
 424
 00:46:13,608 --> 00:46:15,769
@@ -1903,20 +1903,20 @@ Ed, este es el Senador Wes Turner.
 426
 00:46:21,647 --> 00:46:25,175
 - Oye, lo lograste.
-- Sí, apenas.
+- SÃ­, apenas.
 
 427
 00:46:25,176 --> 00:46:28,662
-- Más malditos vampiros.
-- Tranquilízate, Colin.
+- MÃ¡s malditos vampiros.
+- TranquilÃ­zate, Colin.
 
 428
 00:46:28,663 --> 00:46:29,705
-Están tratando de ayudar.
+EstÃ¡n tratando de ayudar.
 
 429
 00:46:31,255 --> 00:46:34,612
-Oye. Ser un vampiro y un político
+Oye. Ser un vampiro y un polÃ­tico
 puede ser duro para hacer amigos.
 
 430
@@ -1926,8 +1926,8 @@ en su oficina que quieren esta cura.
 
 431
 00:46:39,320 --> 00:46:43,043
-Y más importante,
-la usarán por buenas razones.
+Y mÃ¡s importante,
+la usarÃ¡n por buenas razones.
 
 432
 00:46:43,044 --> 00:46:45,617
@@ -1935,7 +1935,7 @@ Queremos reconstruir la raza humana.
 
 433
 00:46:45,618 --> 00:46:47,859
-Pero una vuelta atrás
+Pero una vuelta atrÃ¡s
 puede ser algo peligroso...
 
 434
@@ -1945,7 +1945,7 @@ puede ser algo peligroso...
 435
 00:46:49,136 --> 00:46:52,015
 Somos una especie
-en peligro de extinción, Doc.
+en peligro de extinciÃ³n, Doc.
 
 436
 00:46:52,016 --> 00:46:53,950
@@ -1964,17 +1964,17 @@ durante la semana pasada.</i>
 439
 00:47:28,740 --> 00:47:30,288
 <i>Los expertos creen que esto
-hará que la sangre...</i>
+harÃ¡ que la sangre...</i>
 
 440
 00:47:30,289 --> 00:47:32,703
 <i>...sea imposible de obtener para
-muchos ciudadanos a lo largo del país...</i>
+muchos ciudadanos a lo largo del paÃ­s...</i>
 
 441
 00:47:32,704 --> 00:47:34,739
-<i>...y creará lo que sólo
-podrá describirse...</i>
+<i>...y crearÃ¡ lo que sÃ³lo
+podrÃ¡ describirse...</i>
 
 442
 00:47:34,740 --> 00:47:37,456
@@ -1982,21 +1982,21 @@ podrá describirse...</i>
 
 443
 00:47:43,790 --> 00:47:45,145
-Discúlpeme.
+DiscÃºlpeme.
 
 444
 00:47:47,244 --> 00:47:49,268
-Esto no es lo que pedí.
+Esto no es lo que pedÃ­.
 
 445
 00:47:49,269 --> 00:47:52,326
 Lea los carteles, Sr.
-Ahora sólo nos permiten...
+Ahora sÃ³lo nos permiten...
 
 446
 00:47:52,327 --> 00:47:54,466
 ...servir el 5% de sangre
-con cada café.
+con cada cafÃ©.
 
 447
 00:47:54,467 --> 00:47:58,077
@@ -2004,8 +2004,8 @@ No me importa lo que diga el cartel.
 
 448
 00:48:00,476 --> 00:48:03,928
-Sólo pongo un poco más
-de puta sangre en mi café.
+SÃ³lo pongo un poco mÃ¡s
+de puta sangre en mi cafÃ©.
 
 449
 00:48:03,929 --> 00:48:05,284
@@ -2013,7 +2013,7 @@ No puedo.
 
 450
 00:48:26,344 --> 00:48:27,562
-¡Muévase!
+Â¡MuÃ©vase!
 
 451
 00:48:51,955 --> 00:48:54,687
@@ -2022,59 +2022,59 @@ de quemados bajo luces UV.
 
 452
 00:48:54,839 --> 00:48:56,814
-Siempre permanecía infectada.
+Siempre permanecÃ­a infectada.
 
 453
 00:48:57,603 --> 00:48:59,916
-¿Cómo puede ser posible
+Â¿CÃ³mo puede ser posible
 que seas humano?
 
 454
 00:48:59,925 --> 00:49:01,415
-Dígamelo Ud., Doc.
+DÃ­gamelo Ud., Doc.
 
 455
 00:49:02,208 --> 00:49:05,425
-¿Cómo se sintió cuando
-el sol golpeó su cuerpo?
+Â¿CÃ³mo se sintiÃ³ cuando
+el sol golpeÃ³ su cuerpo?
 
 456
 00:49:05,698 --> 00:49:08,060
-¿Qué quiere decir
-con cómo se sintió?
+Â¿QuÃ© quiere decir
+con cÃ³mo se sintiÃ³?
 
 457
 00:49:08,066 --> 00:49:11,580
-Me sentía como un maldito
+Me sentÃ­a como un maldito
 pedazo de pollo frito.
 
 458
 00:49:11,860 --> 00:49:13,572
-¿No puede recordar nada específico
+Â¿No puede recordar nada especÃ­fico
 acerca de ello?
 
 459
 00:49:13,573 --> 00:49:15,124
-¿Algo, lo que sea?
+Â¿Algo, lo que sea?
 
 460
 00:49:15,125 --> 00:49:19,002
 Bueno, recuerdo que
-cuando la luz solar me pegó...
+cuando la luz solar me pegÃ³...
 
 461
 00:49:19,331 --> 00:49:23,734
 ...fue como si un rayo le diera
-una descarga de arranque a mi corazón.
+una descarga de arranque a mi corazÃ³n.
 
 462
 00:49:25,965 --> 00:49:29,757
 Fue como si... alguien dejara entrar
-el aire de nuevo en la habitación.
+el aire de nuevo en la habitaciÃ³n.
 
 463
 00:49:34,929 --> 00:49:37,294
-Quizás la única forma
+QuizÃ¡s la Ãºnica forma
 de tratar la sangre...
 
 464
@@ -2088,7 +2088,7 @@ una quemadura solar.
 
 466
 00:49:50,578 --> 00:49:53,351
-<i>- La recogida fue un éxito.
+<i>- La recogida fue un Ã©xito.
 - Eso es genial Jarvis.</i>
 
 467
@@ -2102,7 +2102,7 @@ de las rutas interestatales...</i>
 
 469
 00:49:56,419 --> 00:49:58,236
-<i>...así que puede llevarnos
+<i>...asÃ­ que puede llevarnos
 bastante tiempo volver.</i>
 
 470
@@ -2111,7 +2111,7 @@ Permanezcan seguros.
 
 471
 00:50:03,820 --> 00:50:05,146
-¿Estás bien?
+Â¿EstÃ¡s bien?
 
 472
 00:50:07,722 --> 00:50:09,767
@@ -2129,21 +2129,21 @@ lo que se siente ser humano.
 
 475
 00:50:18,752 --> 00:50:20,684
-¿Tienes miedo de morir?
+Â¿Tienes miedo de morir?
 
 476
 00:50:22,369 --> 00:50:23,737
-Sí.
+SÃ­.
 
 477
 00:50:24,510 --> 00:50:26,503
-La mayoría de nosotros
+La mayorÃ­a de nosotros
 estamos tan temerosos de morir...
 
 478
 00:50:26,504 --> 00:50:28,379
 ...como para pensar en ello
-como una opción.
+como una opciÃ³n.
 
 479
 00:50:28,380 --> 00:50:30,972
@@ -2152,7 +2152,7 @@ que tantos se convirtieron.
 
 480
 00:50:33,451 --> 00:50:35,383
-¿Cómo te pasó a ti?
+Â¿CÃ³mo te pasÃ³ a ti?
 
 481
 00:50:36,835 --> 00:50:38,626
@@ -2164,30 +2164,30 @@ Mi hermano...
 
 483
 00:50:52,875 --> 00:50:54,286
-¿Qué son estos?
+Â¿QuÃ© son estos?
 
 484
 00:50:54,907 --> 00:50:56,791
-Tanques de fermentación de vino.
+Tanques de fermentaciÃ³n de vino.
 
 485
 00:50:57,122 --> 00:50:58,645
-Fermentación.
+FermentaciÃ³n.
 
 486
 00:50:58,685 --> 00:51:01,612
-- Son herméticos, ¿cierto?
-- Sí, así es.
+- Son hermÃ©ticos, Â¿cierto?
+- SÃ­, asÃ­ es.
 
 487
 00:51:08,088 --> 00:51:11,534
-- ¿Qué es eso?
-- Es un ventilador de extracción.
+- Â¿QuÃ© es eso?
+- Es un ventilador de extracciÃ³n.
 
 488
 00:51:11,535 --> 00:51:14,824
 Saca el aire del tanque para
-detener la oxidación del vino.
+detener la oxidaciÃ³n del vino.
 
 489
 00:51:14,825 --> 00:51:18,001
@@ -2196,15 +2196,15 @@ para apagar el fuego.
 
 490
 00:51:40,312 --> 00:51:42,857
-¿Qué tan lejos está el viñedo, Jarvis?
+Â¿QuÃ© tan lejos estÃ¡ el viÃ±edo, Jarvis?
 
 491
 00:51:42,860 --> 00:51:44,778
-Está como a dos horas que aquí.
+EstÃ¡ como a dos horas que aquÃ­.
 
 492
 00:51:45,163 --> 00:51:47,200
-Así que, ¿hace mucho que haces esto?
+AsÃ­ que, Â¿hace mucho que haces esto?
 
 493
 00:51:47,201 --> 00:51:49,508
@@ -2220,13 +2220,13 @@ No quedan muchos de nosotros ahora.
 
 496
 00:51:54,429 --> 00:51:55,846
-¿Cuánto tiempo
-estuviste escapándote?
+Â¿CuÃ¡nto tiempo
+estuviste escapÃ¡ndote?
 
 497
 00:51:55,847 --> 00:51:59,470
-La mayoría estamos escapando juntos
-desde hace años.
+La mayorÃ­a estamos escapando juntos
+desde hace aÃ±os.
 
 498
 00:52:00,712 --> 00:52:02,230
@@ -2234,12 +2234,12 @@ Nunca estuvo tan mal como ahora.
 
 499
 00:52:02,429 --> 00:52:04,836
-¿Qué te hizo recorrer
-todo el camino hasta aquí?
+Â¿QuÃ© te hizo recorrer
+todo el camino hasta aquÃ­?
 
 500
 00:52:04,957 --> 00:52:06,607
-Es más seguro.
+Es mÃ¡s seguro.
 
 501
 00:52:07,356 --> 00:52:10,839
@@ -2248,40 +2248,40 @@ no hay mucha sombra.
 
 502
 00:52:11,205 --> 00:52:13,392
-No hay mucha comida tampoco, ¿cierto?
+No hay mucha comida tampoco, Â¿cierto?
 
 503
 00:52:14,245 --> 00:52:16,935
-Sí. Gracias.
+SÃ­. Gracias.
 
 504
 00:52:20,812 --> 00:52:22,179
-¡Mierda!
+Â¡Mierda!
 
 505
 00:52:30,397 --> 00:52:31,779
-¡Maldición!
+Â¡MaldiciÃ³n!
 
 506
 00:52:58,387 --> 00:52:59,769
-¡Mierda!
+Â¡Mierda!
 
 507
 00:53:01,062 --> 00:53:03,566
-¡Dardo tranquilizador!
-¡Muévanse! ¡Muévanse!
+Â¡Dardo tranquilizador!
+Â¡MuÃ©vanse! Â¡MuÃ©vanse!
 
 508
 00:53:30,578 --> 00:53:31,987
-¡Mierda!
+Â¡Mierda!
 
 509
 00:53:34,274 --> 00:53:36,009
-¡Muévanse! ¡Muévanse!
+Â¡MuÃ©vanse! Â¡MuÃ©vanse!
 
 510
 00:53:36,644 --> 00:53:38,153
-¡Muévete, muévete, muévete!
+Â¡MuÃ©vete, muÃ©vete, muÃ©vete!
 
 511
 00:53:41,511 --> 00:53:42,892
@@ -2289,32 +2289,32 @@ Sigan disparando.
 
 512
 00:53:45,222 --> 00:53:46,760
-¡Fuego!
+Â¡Fuego!
 
 513
 00:53:48,802 --> 00:53:50,168
-¡Fuego!
+Â¡Fuego!
 
 514
 00:54:12,679 --> 00:54:14,131
-¿Alguien puede oírme?
+Â¿Alguien puede oÃ­rme?
 
 515
 00:54:15,279 --> 00:54:17,818
-¿Hola? ¿Hay alguien ahí?
+Â¿Hola? Â¿Hay alguien ahÃ­?
 
 516
 00:54:18,177 --> 00:54:20,053
-Te escuchamos, ¿quién habla?
+Te escuchamos, Â¿quiÃ©n habla?
 
 517
 00:54:20,079 --> 00:54:22,519
 Nos encontraron.
-Están por todas partes.
+EstÃ¡n por todas partes.
 
 518
 00:54:22,522 --> 00:54:23,955
-¿Dónde están?
+Â¿DÃ³nde estÃ¡n?
 
 519
 00:54:31,028 --> 00:54:33,350
@@ -2322,20 +2322,20 @@ Tengo otro.
 
 520
 00:54:34,417 --> 00:54:36,165
-¿Están ahí todavía?
+Â¿EstÃ¡n ahÃ­ todavÃ­a?
 
 521
 00:54:48,106 --> 00:54:49,616
-Está completamente aislado.
+EstÃ¡ completamente aislado.
 
 522
 00:54:49,657 --> 00:54:51,668
-Debería ser el lugar más seguro
+DeberÃ­a ser el lugar mÃ¡s seguro
 para reagruparnos.
 
 523
 00:54:51,688 --> 00:54:53,023
-¿Cuánto tiempo llevará llegar allí?
+Â¿CuÃ¡nto tiempo llevarÃ¡ llegar allÃ­?
 
 524
 00:54:53,024 --> 00:54:54,508
@@ -2345,11 +2345,11 @@ de las autopistas y seguimos...
 525
 00:54:54,510 --> 00:54:56,129
 ...los senderos
-a lo largo del Río Marshall...
+a lo largo del RÃ­o Marshall...
 
 526
 00:54:56,165 --> 00:54:58,149
-...deberíamos llegar a mi cabaña
+...deberÃ­amos llegar a mi cabaÃ±a
 antes del anochecer.
 
 527
@@ -2359,7 +2359,7 @@ De acuerdo.
 528
 00:54:59,582 --> 00:55:02,129
 - Ten cuidado.
-- Tú también.
+- TÃº tambiÃ©n.
 
 529
 00:55:05,455 --> 00:55:08,196
@@ -2369,11 +2369,11 @@ Tenemos que irnos.
 530
 00:55:08,376 --> 00:55:11,427
 - No puedo.
-- Estarán aquí pronto.
+- EstarÃ¡n aquÃ­ pronto.
 
 531
 00:55:11,428 --> 00:55:14,205
-El sol está a punto de salir, quizás no
+El sol estÃ¡ a punto de salir, quizÃ¡s no
 volvamos a tener una oportunidad de...
 
 532
@@ -2383,7 +2383,7 @@ de nuevo, tengo que hacerlo.
 
 533
 00:55:16,618 --> 00:55:19,695
-- Esa cosa podría matarte.
+- Esa cosa podrÃ­a matarte.
 - Ya estoy muerto.
 
 534
@@ -2400,17 +2400,17 @@ No necesitas eso.
 
 537
 00:56:07,080 --> 00:56:08,998
-Estás a salvo aquí,
+EstÃ¡s a salvo aquÃ­,
 lo prometo.
 
 538
 00:56:09,575 --> 00:56:11,264
-¿Dónde están mis amigos?
+Â¿DÃ³nde estÃ¡n mis amigos?
 
 539
 00:56:13,219 --> 00:56:15,923
 No los lastimes.
-¡Por favor!
+Â¡Por favor!
 
 540
 00:56:18,234 --> 00:56:20,576
@@ -2422,7 +2422,7 @@ Has crecido tanto.
 
 542
 00:56:28,157 --> 00:56:29,721
-Papá, por favor.
+PapÃ¡, por favor.
 
 543
 00:56:31,314 --> 00:56:33,387
@@ -2430,16 +2430,16 @@ Estoy tan feliz de verte.
 
 544
 00:56:33,810 --> 00:56:36,335
-Pensé que jamás
-te vería de nuevo, cariño.
+PensÃ© que jamÃ¡s
+te verÃ­a de nuevo, cariÃ±o.
 
 545
 00:56:37,426 --> 00:56:39,542
-Estás a salvo ahora.
+EstÃ¡s a salvo ahora.
 
 546
 00:56:39,823 --> 00:56:41,458
-Estás a salvo.
+EstÃ¡s a salvo.
 
 547
 00:56:42,695 --> 00:56:44,641
@@ -2456,41 +2456,41 @@ No lo lamentas.
 
 550
 00:56:53,368 --> 00:56:55,780
-Ally, déjame ayudarte, ¡por favor!
+Ally, dÃ©jame ayudarte, Â¡por favor!
 
 551
 00:57:16,632 --> 00:57:18,847
-¿Estás seguro de que estás listo
+Â¿EstÃ¡s seguro de que estÃ¡s listo
 para esto?
 
 552
 00:57:19,694 --> 00:57:22,614
-Sí. ¿Qué podría salir mal?
+SÃ­. Â¿QuÃ© podrÃ­a salir mal?
 
 553
 00:57:34,805 --> 00:57:37,020
-Estás tan cálida.
+EstÃ¡s tan cÃ¡lida.
 
 554
 00:58:19,074 --> 00:58:20,626
-¿Listo, Doc?
+Â¿Listo, Doc?
 
 555
 00:58:21,458 --> 00:58:23,686
 - Listo.
-- Hagámoslo, Aud.
+- HagÃ¡moslo, Aud.
 
 556
 00:58:24,234 --> 00:58:26,237
-De acuerdo, a mi señal.
+De acuerdo, a mi seÃ±al.
 
 557
 00:58:26,302 --> 00:58:30,896
-3, 2, 1... ¡Ahora!
+3, 2, 1... Â¡Ahora!
 
 558
 00:58:48,396 --> 00:58:49,764
-¿Ed?
+Â¿Ed?
 
 559
 00:58:50,972 --> 00:58:52,398
@@ -2498,41 +2498,41 @@ Estoy bien.
 
 560
 00:58:52,441 --> 00:58:54,268
-Está bien, Aud.
+EstÃ¡ bien, Aud.
 
 561
 00:58:54,298 --> 00:58:57,947
-- Hagámoslo de nuevo.
-- ¡De nuevo, hagámoslo de nuevo!
+- HagÃ¡moslo de nuevo.
+- Â¡De nuevo, hagÃ¡moslo de nuevo!
 
 562
 00:59:02,688 --> 00:59:06,524
-3, 2, 1... ¡Ahora!
+3, 2, 1... Â¡Ahora!
 
 563
 00:59:21,510 --> 00:59:23,061
-¿Estás bien?
+Â¿EstÃ¡s bien?
 
 564
 00:59:23,826 --> 00:59:25,208
-¿Ed?
+Â¿Ed?
 
 565
 00:59:25,254 --> 00:59:28,056
-- Sí. De nuevo.
-- ¡Está bien!
+- SÃ­. De nuevo.
+- Â¡EstÃ¡ bien!
 
 566
 00:59:36,025 --> 00:59:39,969
-3, 2, 1... ¡Ahora!
+3, 2, 1... Â¡Ahora!
 
 567
 01:00:12,203 --> 01:00:13,586
-¡Ed!
+Â¡Ed!
 
 568
 01:00:20,352 --> 01:00:21,832
-Señor Todopoderoso.
+SeÃ±or Todopoderoso.
 
 569
 01:00:52,046 --> 01:00:53,523
@@ -2540,16 +2540,16 @@ Sr. Dalton.
 
 570
 01:00:54,376 --> 01:00:55,887
-¿Cómo está tu hombro, hijo?
+Â¿CÃ³mo estÃ¡ tu hombro, hijo?
 
 571
 01:00:56,272 --> 01:00:59,347
-Está curando rápidamente.
-¿Cómo está usted, Sr.?
+EstÃ¡ curando rÃ¡pidamente.
+Â¿CÃ³mo estÃ¡ usted, Sr.?
 
 572
 01:01:00,222 --> 01:01:01,709
-Sobreviviré.
+SobrevivirÃ©.
 
 573
 01:01:03,696 --> 01:01:05,216
@@ -2567,7 +2567,7 @@ y asqueado de la guerra."
 
 576
 01:01:13,014 --> 01:01:15,551
-"Su gloria no es más que patrañas."
+"Su gloria no es mÃ¡s que patraÃ±as."
 
 577
 01:01:15,710 --> 01:01:17,753
@@ -2576,7 +2576,7 @@ y asqueado de la guerra."
 578
 01:01:19,305 --> 01:01:23,367
 Menos de 50 humanos
-han sido capturados la última semana.
+han sido capturados la Ãºltima semana.
 
 579
 01:01:23,692 --> 01:01:26,912
@@ -2585,7 +2585,7 @@ que el infierno se acerca.
 
 580
 01:01:28,072 --> 01:01:30,541
-Con soldados dedicados, como tú...
+Con soldados dedicados, como tÃº...
 
 581
 01:01:30,917 --> 01:01:33,202
@@ -2597,11 +2597,11 @@ Frankie...
 
 583
 01:01:42,940 --> 01:01:45,663
-...necesito que hagas algo por mí.
+...necesito que hagas algo por mÃ­.
 
 584
 01:01:54,218 --> 01:01:55,884
-¡Aléjate de mí!
+Â¡AlÃ©jate de mÃ­!
 
 585
 01:01:55,918 --> 01:01:58,071
@@ -2609,19 +2609,19 @@ No tienes que tenerme miedo.
 
 586
 01:01:58,085 --> 01:01:59,928
-¡Aléjate!
+Â¡AlÃ©jate!
 
 587
 01:02:00,301 --> 01:02:01,768
-¿Esto es lo que quieres?
+Â¿Esto es lo que quieres?
 
 588
 01:02:02,273 --> 01:02:03,727
-¿Vivir con miedo?
+Â¿Vivir con miedo?
 
 589
 01:02:04,481 --> 01:02:05,976
-Verás, puedo ayudarte.
+VerÃ¡s, puedo ayudarte.
 
 590
 01:02:06,310 --> 01:02:07,918
@@ -2646,11 +2646,11 @@ Bienvenido de nuevo.
 
 595
 01:04:09,204 --> 01:04:11,436
-"De las cenizas brotará nueva vida."
+"De las cenizas brotarÃ¡ nueva vida."
 
 596
 01:04:40,763 --> 01:04:42,744
-No está tomando su ración
+No estÃ¡ tomando su raciÃ³n
 de sangre, Sr.
 
 597
@@ -2667,17 +2667,17 @@ Nena.
 
 600
 01:05:07,814 --> 01:05:11,411
-Ally. ¿Qué estás haciendo?
-Eso te envenenará.
+Ally. Â¿QuÃ© estÃ¡s haciendo?
+Eso te envenenarÃ¡.
 
 601
 01:05:15,713 --> 01:05:17,716
-¿Es esto lo que querías?
+Â¿Es esto lo que querÃ­as?
 
 602
 01:05:18,082 --> 01:05:20,423
-- Cariño, detén esto.
-- ¿Esto es lo que querías?
+- CariÃ±o, detÃ©n esto.
+- Â¿Esto es lo que querÃ­as?
 
 603
 01:05:20,431 --> 01:05:21,794
@@ -2689,16 +2689,16 @@ No.
 
 605
 01:05:25,670 --> 01:05:27,306
-Tú hiciste esto.
+TÃº hiciste esto.
 
 606
 01:05:27,681 --> 01:05:29,557
-- Tú hiciste esto.
+- TÃº hiciste esto.
 - No.
 
 607
 01:05:32,148 --> 01:05:34,741
-No. Tú hiciste esto.
+No. TÃº hiciste esto.
 
 608
 01:05:56,364 --> 01:05:58,275
@@ -2707,8 +2707,8 @@ han sido enviadas...</i>
 
 609
 01:05:58,276 --> 01:06:00,393
-<i>...a las ciudades más importantes
-de todo el país en un intento...</i>
+<i>...a las ciudades mÃ¡s importantes
+de todo el paÃ­s en un intento...</i>
 
 610
 01:06:00,497 --> 01:06:03,995
@@ -2717,8 +2717,8 @@ como la epidemia de disminuidos.</i>
 
 611
 01:06:03,997 --> 01:06:06,842
-<i>Líderes militares han anunciado
-que tomarán una medida...</i>
+<i>LÃ­deres militares han anunciado
+que tomarÃ¡n una medida...</i>
 
 612
 01:06:06,843 --> 01:06:09,009
@@ -2741,20 +2741,20 @@ Clase 4, privados de sangre...</i>
 616
 01:06:16,873 --> 01:06:18,834
 TODOS LOS HUMANOS HAN SIDO CAPTURADOS
-¿Y AHORA QUÉ?
+Â¿Y AHORA QUÃ‰?
 
 617
 01:06:28,652 --> 01:06:29,812
-¿Estamos cerca?
+Â¿Estamos cerca?
 
 618
 01:06:29,866 --> 01:06:31,797
-La cabaña del senador debería
-estar justo ahí adelante.
+La cabaÃ±a del senador deberÃ­a
+estar justo ahÃ­ adelante.
 
 619
 01:07:35,687 --> 01:07:37,323
-Todo se terminó.
+Todo se terminÃ³.
 
 620
 01:07:39,887 --> 01:07:41,367
@@ -2775,7 +2775,7 @@ Conozco a alguien que puede ayudar.
 624
 01:08:05,240 --> 01:08:07,981
 <i>Con la redada militar
-en su pico máximo...</i>
+en su pico mÃ¡ximo...</i>
 
 625
 01:08:07,982 --> 01:08:09,856
@@ -2783,27 +2783,27 @@ en su pico máximo...</i>
 
 626
 01:08:09,881 --> 01:08:12,059
-<i>...una disminución de la presencia
+<i>...una disminuciÃ³n de la presencia
 de disminuidos en nuestras calles.</i>
 
 627
 01:08:12,073 --> 01:08:14,155
 <i>Pero la pregunta
-ha sido hecha: "¿Ahora qué?".</i>
+ha sido hecha: "Â¿Ahora quÃ©?".</i>
 
 628
 01:08:14,173 --> 01:08:15,775
 <i>Nuestras familias
-están muertas de hambre.</i>
+estÃ¡n muertas de hambre.</i>
 
 629
 01:08:15,811 --> 01:08:18,184
 <i>No podemos permitirnos alimentar
-a estas criaturas también.</i>
+a estas criaturas tambiÃ©n.</i>
 
 630
 01:08:18,190 --> 01:08:21,171
-<i>Sé que estaría mal,
+<i>SÃ© que estarÃ­a mal,
 pero, estas cosas...</i>
 
 631
@@ -2816,7 +2816,7 @@ pero, estas cosas...</i>
 
 633
 01:10:39,604 --> 01:10:41,015
-<i>Sí.</i>
+<i>SÃ­.</i>
 
 634
 01:11:01,732 --> 01:11:03,104
@@ -2824,12 +2824,12 @@ Gracias.
 
 635
 01:11:03,806 --> 01:11:05,371
-Lo sé. Lo sé.
+Lo sÃ©. Lo sÃ©.
 
 636
 01:11:05,620 --> 01:11:07,327
 Bueno,
-no podría haberlo hecho sin ti.
+no podrÃ­a haberlo hecho sin ti.
 
 637
 01:11:11,016 --> 01:11:12,469
@@ -2837,7 +2837,7 @@ Mierda.
 
 638
 01:11:14,593 --> 01:11:16,214
-Te llamaré.
+Te llamarÃ©.
 
 639
 01:11:20,309 --> 01:11:22,274
@@ -2845,12 +2845,12 @@ Eres humano de verdad.
 
 640
 01:11:24,471 --> 01:11:27,561
-- Esto es increíble.
+- Esto es increÃ­ble.
 - Espera.
 
 641
 01:11:29,970 --> 01:11:32,072
-Lo siento. ¿Quién eres tú?
+Lo siento. Â¿QuiÃ©n eres tÃº?
 
 642
 01:11:32,444 --> 01:11:34,869
@@ -2863,7 +2863,7 @@ Son tiempos peligrosos, Chris.
 644
 01:11:37,104 --> 01:11:40,431
 No podemos ser demasiado cuidadosos.
-¿De acuerdo? Siéntate, por favor.
+Â¿De acuerdo? SiÃ©ntate, por favor.
 
 645
 01:11:43,529 --> 01:11:45,348
@@ -2871,12 +2871,12 @@ Ed, soy yo.
 
 646
 01:11:45,906 --> 01:11:48,870
-Luego de 6 años
+Luego de 6 aÃ±os
 de haber trabajado juntos.
 
 647
 01:11:48,871 --> 01:11:51,246
-Tú sabes los sacrificios
+TÃº sabes los sacrificios
 que he hecho.
 
 648
@@ -2887,7 +2887,7 @@ al 100% todo el tiempo.
 649
 01:11:54,326 --> 01:11:55,885
 - Siempre.
-- Lo sé.
+- Lo sÃ©.
 
 650
 01:11:57,019 --> 01:11:58,383
@@ -2905,7 +2905,7 @@ Tenemos una cura.
 653
 01:12:06,613 --> 01:12:11,000
 Y puedo repetir el procedimiento,
-pero necesitaré tu ayuda.
+pero necesitarÃ© tu ayuda.
 
 654
 01:12:11,367 --> 01:12:14,822
@@ -2914,11 +2914,11 @@ de cambiar todo.
 
 655
 01:12:26,376 --> 01:12:28,085
-¿Cómo lo hiciste?
+Â¿CÃ³mo lo hiciste?
 
 656
 01:12:42,103 --> 01:12:43,654
-¿Vas a contestar eso?
+Â¿Vas a contestar eso?
 
 657
 01:12:49,292 --> 01:12:50,661
@@ -2930,7 +2930,7 @@ No.
 
 659
 01:12:53,287 --> 01:12:54,656
-Sí.
+SÃ­.
 
 660
 01:12:56,170 --> 01:12:57,538
@@ -2943,23 +2943,23 @@ Ex-esposa.
 662
 01:13:00,117 --> 01:13:02,551
 Es complicado.
-¿Puedes darme un segundo?
+Â¿Puedes darme un segundo?
 
 663
 01:13:03,769 --> 01:13:05,152
-Sí.
+SÃ­.
 
 664
 01:13:07,942 --> 01:13:10,975
-No. No accedimos a eso, así que...
+No. No accedimos a eso, asÃ­ que...
 
 665
 01:13:11,395 --> 01:13:12,763
-<i>¿De qué estás hablando?</i>
+<i>Â¿De quÃ© estÃ¡s hablando?</i>
 
 666
 01:13:15,148 --> 01:13:16,803
-<i>¿Eso es todo?</i>
+<i>Â¿Eso es todo?</i>
 
 667
 01:13:19,319 --> 01:13:22,011
@@ -2972,7 +2972,7 @@ Esta es una maldita casa fea.
 
 669
 01:13:34,032 --> 01:13:35,541
-¿Adónde vas?
+Â¿AdÃ³nde vas?
 
 670
 01:13:36,036 --> 01:13:38,126
@@ -3001,15 +3001,15 @@ No lo puedo creer.
 
 676
 01:15:29,621 --> 01:15:31,368
-No te acerques más.
+No te acerques mÃ¡s.
 
 677
 01:15:36,162 --> 01:15:39,277
-Frankie, encontré una cura.
+Frankie, encontrÃ© una cura.
 
 678
 01:15:39,413 --> 01:15:40,779
-¿De acuerdo?
+Â¿De acuerdo?
 
 679
 01:15:41,078 --> 01:15:42,952
@@ -3022,11 +3022,11 @@ No.
 681
 01:15:46,542 --> 01:15:48,925
 - Baja el arma, chico.
-- No. Está todo bien.
+- No. EstÃ¡ todo bien.
 
 682
 01:15:49,100 --> 01:15:50,737
-Frankie, está todo bien.
+Frankie, estÃ¡ todo bien.
 
 683
 01:15:51,633 --> 01:15:54,663
@@ -3034,34 +3034,34 @@ Frankie, no es demasiado tarde.
 
 684
 01:15:56,281 --> 01:15:58,805
-¿Sabes por qué te transformé, Ed?
+Â¿Sabes por quÃ© te transformÃ©, Ed?
 
 685
 01:16:04,813 --> 01:16:09,411
-Solías decirme que preferías morir
+SolÃ­as decirme que preferÃ­as morir
 a ser como el resto de nosotros.
 
 686
 01:16:11,638 --> 01:16:14,946
-No te convertí porque
+No te convertÃ­ porque
 fuera conveniente o...
 
 687
 01:16:14,947 --> 01:16:17,989
-...por alguna necesidad egoísta
+...por alguna necesidad egoÃ­sta
 de sangre.
 
 688
 01:16:18,383 --> 01:16:20,710
-Te transformé porque...
+Te transformÃ© porque...
 
 689
 01:16:21,254 --> 01:16:23,621
-...habrías muerto si no lo hacía.
+...habrÃ­as muerto si no lo hacÃ­a.
 
 690
 01:16:25,309 --> 01:16:27,299
-No podía perderte, Ed.
+No podÃ­a perderte, Ed.
 
 691
 01:16:31,137 --> 01:16:33,151
@@ -3069,25 +3069,25 @@ Estoy muy jodido.
 
 692
 01:16:37,192 --> 01:16:39,185
-Puedo sacarte de aquí.
+Puedo sacarte de aquÃ­.
 
 693
 01:16:39,367 --> 01:16:42,057
 No nos iremos
-a ningún lado sin Audrey.
+a ningÃºn lado sin Audrey.
 
 694
 01:16:42,474 --> 01:16:45,506
-- ¿La mujer?
-- Sí, la mujer.
+- Â¿La mujer?
+- SÃ­, la mujer.
 
 695
 01:16:46,777 --> 01:16:48,596
-Nunca llegarán a ella.
+Nunca llegarÃ¡n a ella.
 
 696
 01:16:51,815 --> 01:16:53,511
-¿Quieres ayudarnos?
+Â¿Quieres ayudarnos?
 
 697
 01:16:56,234 --> 01:16:57,602
@@ -3103,7 +3103,7 @@ Bien.
 
 700
 01:17:28,627 --> 01:17:30,081
-Maldición.
+MaldiciÃ³n.
 
 701
 01:18:33,617 --> 01:18:35,043
@@ -3111,7 +3111,7 @@ Edward.
 
 702
 01:18:35,950 --> 01:18:38,390
-Estás bronceado.
+EstÃ¡s bronceado.
 Te queda bien.
 
 703
@@ -3124,8 +3124,8 @@ Su sangre tiene un aroma...
 
 705
 01:18:48,646 --> 01:18:51,070
-...que ningún sustituto
-podrá reemplazar jamás.
+...que ningÃºn sustituto
+podrÃ¡ reemplazar jamÃ¡s.
 
 706
 01:18:53,343 --> 01:18:54,770
@@ -3145,7 +3145,7 @@ Ser humano.
 
 710
 01:19:14,456 --> 01:19:16,219
-¿No es eso lo que querías?
+Â¿No es eso lo que querÃ­as?
 
 711
 01:19:16,250 --> 01:19:18,262
@@ -3153,7 +3153,7 @@ No quiero tener miedo.
 
 712
 01:19:18,442 --> 01:19:21,954
-Nunca podré ser libre así,
+Nunca podrÃ© ser libre asÃ­,
 ahora lo veo.
 
 713
@@ -3162,41 +3162,41 @@ Por favor.
 
 714
 01:19:24,901 --> 01:19:26,413
-Ayúdame.
+AyÃºdame.
 
 715
 01:19:28,450 --> 01:19:30,394
-¿Qué es lo que quieres?
+Â¿QuÃ© es lo que quieres?
 
 716
 01:19:30,819 --> 01:19:32,540
-Conviértenos a ambos.
+ConviÃ©rtenos a ambos.
 
 717
 01:19:32,779 --> 01:19:34,231
-Déjanos irnos.
+DÃ©janos irnos.
 
 718
 01:19:34,301 --> 01:19:38,458
-Y te mostraré una forma de repoblar
+Y te mostrarÃ© una forma de repoblar
 tu suministro humano completo.
 
 719
 01:19:38,460 --> 01:19:40,699
-¿Qué diablos estás haciendo?
+Â¿QuÃ© diablos estÃ¡s haciendo?
 
 720
 01:19:41,127 --> 01:19:43,586
-¿Y me darás esta cura?
+Â¿Y me darÃ¡s esta cura?
 
 721
 01:19:43,587 --> 01:19:45,051
-Sí.
+SÃ­.
 
 722
 01:19:45,052 --> 01:19:47,478
 Siempre y cuando permitas
-que ella se vaya libre, también.
+que ella se vaya libre, tambiÃ©n.
 
 723
 01:19:47,482 --> 01:19:48,858
@@ -3208,15 +3208,15 @@ Ella no suena tan interesada...
 
 725
 01:19:53,378 --> 01:19:55,624
-...en tu proposición, Edward.
+...en tu proposiciÃ³n, Edward.
 
 726
 01:19:55,625 --> 01:19:57,741
-Con el tiempo lo comprenderá.
+Con el tiempo lo comprenderÃ¡.
 
 727
 01:19:57,757 --> 01:19:59,168
-¿Lo hará?
+Â¿Lo harÃ¡?
 
 728
 01:20:01,785 --> 01:20:03,209
@@ -3224,7 +3224,7 @@ Gracias.
 
 729
 01:20:05,402 --> 01:20:08,295
-Sabes, no te negaré
+Sabes, no te negarÃ©
 que las cosas se han puesto...
 
 730
@@ -3234,8 +3234,8 @@ durante tu ausencia.
 
 731
 01:20:11,244 --> 01:20:15,134
-El público, los militares;
-todos parecen famélicos.
+El pÃºblico, los militares;
+todos parecen famÃ©licos.
 
 732
 01:20:15,285 --> 01:20:19,344
@@ -3249,7 +3249,7 @@ Ed.
 734
 01:20:20,681 --> 01:20:23,661
 Yo mismo he sentido
-los efectos de la privación.
+los efectos de la privaciÃ³n.
 
 735
 01:20:24,632 --> 01:20:27,213
@@ -3261,12 +3261,12 @@ Pero desde ayer...
 
 737
 01:20:33,415 --> 01:20:36,913
-Sabes, siempre pensé
-que serías tú...
+Sabes, siempre pensÃ©
+que serÃ­as tÃº...
 
 738
 01:20:36,914 --> 01:20:39,631
-...el que descubriría
+...el que descubrirÃ­a
 un sustituto estable.
 
 739
@@ -3276,12 +3276,12 @@ Pero, estaba equivocado.
 
 740
 01:20:44,087 --> 01:20:48,967
-Mira. Comenzaremos la producción
-en masa en dos días.
+Mira. Comenzaremos la producciÃ³n
+en masa en dos dÃ­as.
 
 741
 01:20:49,568 --> 01:20:52,643
-Nunca se trató de una cura.
+Nunca se tratÃ³ de una cura.
 
 742
 01:20:53,929 --> 01:20:56,271
@@ -3289,15 +3289,15 @@ Se trata de repetir los negocios.
 
 743
 01:20:59,554 --> 01:21:01,218
-Y además...
+Y ademÃ¡s...
 
 744
 01:21:02,378 --> 01:21:04,726
-...¿qué hay que curar?
+...Â¿quÃ© hay que curar?
 
 745
 01:21:08,620 --> 01:21:10,432
-Así que, verás, Edward.
+AsÃ­ que, verÃ¡s, Edward.
 
 746
 01:21:13,179 --> 01:21:15,379
@@ -3306,11 +3306,11 @@ Ya no te necesito.
 747
 01:21:17,598 --> 01:21:20,320
 Por supuesto,
-no lo lograrías como humano.
+no lo lograrÃ­as como humano.
 
 748
 01:21:21,132 --> 01:21:22,910
-Eres débil.
+Eres dÃ©bil.
 
 749
 01:21:25,616 --> 01:21:27,111
@@ -3322,16 +3322,16 @@ La verdad es...
 
 751
 01:21:34,582 --> 01:21:37,343
-¿Cómo se sintió convertir
+Â¿CÃ³mo se sintiÃ³ convertir
 a su propia hija?
 
 752
 01:21:39,215 --> 01:21:41,321
-No lo hizo usted, ¿cierto?
+No lo hizo usted, Â¿cierto?
 
 753
 01:21:41,658 --> 01:21:43,360
-No podía, ¿no es cierto?
+No podÃ­a, Â¿no es cierto?
 
 754
 01:21:43,361 --> 01:21:46,416
@@ -3340,17 +3340,17 @@ lo hiciera por Ud.
 
 755
 01:21:48,303 --> 01:21:51,195
-Así que, ¿quién es el maldito cobarde?
+AsÃ­ que, Â¿quiÃ©n es el maldito cobarde?
 
 756
 01:22:35,225 --> 01:22:38,769
 Tu sangre...
-¿Qué me has hecho?
+Â¿QuÃ© me has hecho?
 
 757
 01:22:41,532 --> 01:22:44,097
 <i>Los vampiros creen
-que son dueños del mundo.</i>
+que son dueÃ±os del mundo.</i>
 
 758
 01:22:45,729 --> 01:22:48,135
@@ -3363,17 +3363,17 @@ que esconderse de ellos.
 
 760
 01:22:56,847 --> 01:23:00,354
-Todos los días, el sol sale.
+Todos los dÃ­as, el sol sale.
 
 761
 01:23:04,630 --> 01:23:07,790
-<i>Y todos los días los vampiros
+<i>Y todos los dÃ­as los vampiros
 tienen que esconderse.</i>
 
 762
 01:23:12,591 --> 01:23:14,655
 <i>Los vampiros nunca
-podrían sobrevivir.</i>
+podrÃ­an sobrevivir.</i>
 
 763
 01:23:16,157 --> 01:23:17,615
@@ -3421,7 +3421,7 @@ Ahora te toca morir.
 
 774
 01:24:03,514 --> 01:24:05,411
-<i>Muévanse. Muévanse.</i>
+<i>MuÃ©vanse. MuÃ©vanse.</i>
 
 775
 01:25:24,743 --> 01:25:26,182
